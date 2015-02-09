@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>88293717-1CDA-48CC-8951-BE8E73B0D8E5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GameOfLife</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D3EBAE31F9D7FE9154FF6453BBA9655464B250E9</key>
+		<string>github.com:vshldc/GameOfLifeTemplate-Spritebuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GameOfLife.spritebuilder/GameOfLife.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D3EBAE31F9D7FE9154FF6453BBA9655464B250E9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:vshldc/GameOfLifeTemplate-Spritebuilder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3EBAE31F9D7FE9154FF6453BBA9655464B250E9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3EBAE31F9D7FE9154FF6453BBA9655464B250E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GameOfLifeTemplate-Spritebuilder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
